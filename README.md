@@ -4,8 +4,8 @@
 Libraries Used:
 1. NumPy
 2. PyWavelets
-3. OpenCV,
-4. StreamLit,
+3. OpenCV
+4. StreamLit
 5. Cloudflare.
 
 Object Detection Framework:
