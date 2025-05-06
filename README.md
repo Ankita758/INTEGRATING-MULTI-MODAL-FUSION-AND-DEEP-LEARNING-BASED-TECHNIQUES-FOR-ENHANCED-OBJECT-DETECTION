@@ -1,4 +1,4 @@
-# INTEGRATING-MULTI-MODAL-FUSION-AND-DEEP-LEARNING-BASED-TECHNIQUES-FOR-ENHANCED-OBJECT-DETECTION-
+# INTEGRATING-MULTI-MODAL-FUSION-AND-DEEP-LEARNING-BASED-TECHNIQUES-FOR-ENHANCED-OBJECT-DETECTION
 •	An Object Detection system developed by combining information from thermal and visible images to improve object detection accuracy.
 
 Libraries Used:
