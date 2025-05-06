@@ -6,7 +6,7 @@ Libraries Used:
 2. PyWavelets
 3. OpenCV
 4. StreamLit
-5. Cloudflare.
+5. Cloudflare
 
 Object Detection Framework:
 You Only Look Once version 9 (YOLOv9)
