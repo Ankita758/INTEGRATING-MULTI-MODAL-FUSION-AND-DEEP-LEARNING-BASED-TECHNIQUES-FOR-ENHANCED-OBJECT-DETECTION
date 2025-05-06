@@ -2,11 +2,11 @@
 •	An Object Detection system developed by combining information from thermal and visible images to improve object detection accuracy.
 
 Libraries Used:
-NumPy
-PyWavelets
-OpenCV
-StreamLit
-Cloudflare
+NumPy,
+PyWavelets,
+OpenCV,
+StreamLit,
+Cloudflare.
 
 Object Detection Framework:
 You Only Look Once version 9 (YOLOv9)
